@@ -1,0 +1,50 @@
+body
+{ 
+   background-color: rgb(4, 41, 110);  
+   font-family: Verdana; 
+   font-size: 20px; 
+   color: yellow; 
+
+} 
+
+h1
+{
+font-size: 48px;
+color: rgb(211, 197, 43); 
+text-align: center; 
+text-overflow: clip; 
+
+} 
+
+a:link 
+{
+color:rgb(184, 165, 165); 
+}  
+
+a:visited
+{
+color:rgb(184, 165, 165);    
+} 
+
+a:hover
+{
+color: red 
+}
+
+
+p
+{
+color:whitesmoke; 
+font-family: Georgia, 'Times New Roman', Times, serif 
+border 3px;
+
+}       
+
+img
+{
+  position:fixed;  right: 50px; bottom:50px; background-color:yellow; width: 500px; height: 500px;
+
+  
+
+
+}
